@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEES", "BEES\BEES.csproj", "{7FE6A2B2-BD64-4559-8988-71ACD5676DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hive", "Hive\Hive.csproj", "{277D4EB9-3322-47D0-A579-F2557BE1F3F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE6A2B2-BD64-4559-8988-71ACD5676DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE6A2B2-BD64-4559-8988-71ACD5676DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE6A2B2-BD64-4559-8988-71ACD5676DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE6A2B2-BD64-4559-8988-71ACD5676DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277D4EB9-3322-47D0-A579-F2557BE1F3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277D4EB9-3322-47D0-A579-F2557BE1F3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277D4EB9-3322-47D0-A579-F2557BE1F3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277D4EB9-3322-47D0-A579-F2557BE1F3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B3864D-F6CE-4D6D-ABDB-B07DCDF17C42}
+	EndGlobalSection
+EndGlobal
